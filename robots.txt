@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /qr-scanner-intro/
+
+Sitemap: https://mondhi1120.github.io/qr-scanner-intro/sitemap.xml
